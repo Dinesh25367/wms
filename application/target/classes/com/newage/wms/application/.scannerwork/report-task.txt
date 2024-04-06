@@ -1,0 +1,6 @@
+projectKey=wms_reference_data
+serverUrl=https://sonar.newage-nxt.com
+serverVersion=9.9.2.77730
+dashboardUrl=https://sonar.newage-nxt.com/dashboard?id=wms_reference_data
+ceTaskId=AY6s97hBhTb8dg263yRJ
+ceTaskUrl=https://sonar.newage-nxt.com/api/ce/task?id=AY6s97hBhTb8dg263yRJ
