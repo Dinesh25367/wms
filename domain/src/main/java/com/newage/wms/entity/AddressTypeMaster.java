@@ -20,6 +20,7 @@ public class AddressTypeMaster extends Auditable<String>{
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
 
+
     @Size(max = 25)
     @Column(name = "address_Type", nullable = false, length = 25)
     String addressType;
